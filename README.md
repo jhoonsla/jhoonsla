@@ -9,14 +9,14 @@ Systems analyst focused on backend development.
 | Feature | Details |
 | :--- | :--- |
 | 📚 **Currently Learning** | Advanced Backend Architecture & System Design |
-| 🛠️ **Main Stack** | Java, Spring Boot, Python, TypeScript |
+| 🛠️ **Main Stack** | Java, Spring Boot, Python |
 
 ---
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** `Java` `Python` `TypeScript` `JavaScript` `PHP`
-- **Frameworks & Libs:** `Spring Boot` `Node.js`
+- **Languages:** `Java` `Python` `TypeScript` `JavaScript`
+- **Frameworks & Libs:** `Spring Boot` `FastAPI`
 - **Databases:** `PostgreSQL` `MySQL` `MongoDB`
 
 ---
