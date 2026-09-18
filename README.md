@@ -1,6 +1,22 @@
-<p align="right">
-  <code><b>dev.config</b></code><br><br>
-  <b>role</b> › Backend Developer<br>
-  <b>stack</b> › Java • Spring Boot • Python • TypeScript<br>
-  <b>crafting</b> › Scalable APIs & Clean Code<br><br>
-</p>
+# Hi, I'm Jhoon 👋
+
+Systems analyst focused on backend development.
+
+---
+
+### 💻 About Me
+
+| Feature | Details |
+| :--- | :--- |
+| 📚 **Currently Learning** | Advanced Backend Architecture & System Design |
+| 🛠️ **Main Stack** | Java, Spring Boot, Python, TypeScript |
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** `Java` `Python` `TypeScript` `JavaScript` `PHP`
+- **Frameworks & Libs:** `Spring Boot` `Node.js`
+- **Databases:** `PostgreSQL` `MySQL` `MongoDB`
+
+---
